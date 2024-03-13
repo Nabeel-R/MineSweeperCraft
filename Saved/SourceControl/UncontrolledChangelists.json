@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/Blueprints/Block.uasset",
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/Blueprints/MineGrid.uasset",
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/CV/8TP4S7X4RT0S1WGD2ZE4QG.uasset",
+				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CQ/VTI03DY9YM4BNH9IU1OIPD.uasset"
+			]
+		}
+	]
+}
