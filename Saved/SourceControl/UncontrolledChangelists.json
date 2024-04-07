@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lcy200000/Documents/GitHub/MineSweeperCraft/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/lcy200000/Documents/GitHub/MineSweeperCraft/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/PG/P2CEO2614VE37XQX01IAOU.uasset",
+				"C:/Users/lcy200000/Documents/GitHub/MineSweeperCraft/Content/ThirdPerson/Input/Actions/IA_FreeLook.uasset",
+				"C:/Users/lcy200000/Documents/GitHub/MineSweeperCraft/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/Blueprints/Block.uasset",
 				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/FirstPerson/Maps/FirstPersonMap.umap",
