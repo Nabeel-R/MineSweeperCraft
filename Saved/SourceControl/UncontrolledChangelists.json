@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/odinh/Desktop/ComputerGraphics/MineSweeperCraft/Content/GameUI.uasset",
+				"C:/Users/odinh/Desktop/ComputerGraphics/MineSweeperCraft/Content/GameOver.uasset",
+				"C:/Users/odinh/Desktop/ComputerGraphics/MineSweeperCraft/Content/Start.umap",
 				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/Blueprints/Block.uasset",
 				"C:/Users/Nabee/Documents/Unreal Projects/MineSweeperCraft/Content/FirstPerson/Maps/FirstPersonMap.umap",
